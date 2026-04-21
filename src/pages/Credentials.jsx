@@ -30,7 +30,17 @@ const Credentials = props => {
 					<h4>Certifications</h4>
 					<br />
 					<div className="ml-5">
-						<p className="cred-titles">SEAONC (certificate)</p>
+						<p className="cred-titles">Business Certifications</p>
+						<ul>
+							<li>LBE: Local Business Enterprise</li>
+							<li>WBE: Women Business Enterprise</li>
+							<li>WOSB: Women-Owned Small Business</li>
+							<li>WBENC: Women’s Business Enterprise National Council Certification</li>
+							<li>GSA Award Engineer</li>
+						</ul>
+						<br />
+							
+						<p className="cred-titles">SEAONC (Certificate)</p>
 						<ul>
 							<li>CBC Current Code Updates</li>
 							<li>Retrofit of Soft Story Wood Framed Buildings</li>
