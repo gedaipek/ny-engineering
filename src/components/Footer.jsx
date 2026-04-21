@@ -15,6 +15,11 @@ const Footer = () => {
 						{/* <p>License # 68482</p> */}
 						<p>850 S. Van Ness Ave. Suite #9</p>
 						<p>San Francisco, CA 94110</p>
+						<p>Mailing Address: 850 S. Van Ness Ave, Suite 9</p>
+						<p>San Francisco, CA 94110</p>
+						<br />
+						<p>Office Address (Physical): 3601 Taraval Street</p>
+						<p>San Francisco, CA 94116</p>
 						<hr style={{ width: "25px", borderColor: "rgba(80,80,80,0.45)" }} />
 						<p>
 							<a style={{ textDecoration: "none", color: "black" }} href="tel:+1415-568-1270">
