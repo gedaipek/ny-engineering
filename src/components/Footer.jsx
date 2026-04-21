@@ -13,8 +13,6 @@ const Footer = () => {
 						<p>Nilgun Wolpe, P.E.</p>
 						<hr style={{ width: "25px", borderColor: "rgba(80,80,80,0.45)" }} />
 						{/* <p>License # 68482</p> */}
-						<p>850 S. Van Ness Ave. Suite #9</p>
-						<p>San Francisco, CA 94110</p>
 						<p>Mailing Address: 850 S. Van Ness Ave, Suite 9</p>
 						<p>San Francisco, CA 94110</p>
 						<br />
@@ -32,11 +30,7 @@ const Footer = () => {
 							</a>
 						</p>
 						<hr style={{ width: "25px", borderColor: "rgba(80,80,80,0.45)" }} />
-						<p>
-							<a style={{ textDecoration: "none", color: "black" }} href="https://www.linkedin.com/in/jonathan-pak/">
-								Designed by Jonathan Pak
-							</a>
-						</p>
+
 					</div>
 				</div>
 			</div>
