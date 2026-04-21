@@ -12,7 +12,10 @@ const Footer = () => {
 						<br />
 						<p>Nilgun Wolpe, P.E.</p>
 						<hr style={{ width: "25px", borderColor: "rgba(80,80,80,0.45)" }} />
-						{/* <p>License # 68482</p> */}
+						<p>Licensed Professional Engineer</p>
+						<p>California License #68482</p>
+						<p>New York License #101584</p>
+						<br />
 						<p>Mailing Address: 850 S. Van Ness Ave, Suite 9</p>
 						<p>San Francisco, CA 94110</p>
 						<br />
@@ -29,6 +32,10 @@ const Footer = () => {
 								nyengineering@sbcglobal.net
 							</a>
 						</p>
+						<br />
+						<p>WBENC Certified (Women’s Business Enterprise)</p>
+						<p>GSA Award Engineer</p>
+						
 						<hr style={{ width: "25px", borderColor: "rgba(80,80,80,0.45)" }} />
 
 					</div>
