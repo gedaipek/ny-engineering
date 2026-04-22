@@ -40,9 +40,15 @@ let remodels = [
 		images: ["Rosewood Drive, San Francisco, CA1.jpg-Rosewood Drive, San Francisco, CA2.jpg-Rosewood Drive, San Francisco, CA3.jpg"]
 	},
 	{
-		name: "Iris Street, San Francisco, CA",
-		images: ["Iris Street, San Francisco, CA1.jpg-Rosewood Drive, San Francisco, CA2.jpg-Rosewood Drive, San Francisco, CA3.jpg"]
+	name: "Iris Street, San Francisco, CA",
+	images: ["Iris Street, San Francisco, CA1.jpg-Iris Street, San Francisco, CA2.jpg-Iris Street, San Francisco, CA3.jpg-Iris Street, San Francisco, CA4.jpg-Iris Street, San Francisco, CA5.jpg-Iris Street, San Francisco, CA6.jpg-Iris Street, San Francisco, CA7.jpg-Iris Street, San Francisco, CA8.jpg-Iris Street, San Francisco, CA9.jpg-Iris Street, San Francisco, CA10.jpg-Iris Street, San Francisco, CA11.jpg-Iris Street, San Francisco, CA12.jpg-Iris Street, San Francisco, CA13.jpg-Iris Street, San Francisco, CA14.jpg-Iris Street, San Francisco, CA15.jpg-Iris Street, San Francisco, CA16.jpg-Iris Street, San Francisco, CA17.jpg-Iris Street, San Francisco, CA18.jpg-Iris Street, San Francisco, CA19.jpg-Iris Street, San Francisco, CA20.jpg"]
 	},
+	{
+	name: "25th Avenue, San Francisco, CA",
+	images: ["25th Avenue, San Francisco, CA1.jpg-25th Avenue, San Francisco, CA2.jpg-25th Avenue, San Francisco, CA3.jpg-25th Avenue, San Francisco, CA4.jpg-25th Avenue, San Francisco, CA5.jpg-25th Avenue, San Francisco, CA6.jpg-25th Avenue, San Francisco, CA7.jpg-25th Avenue, San Francisco, CA8.jpg-25th Avenue, San Francisco, CA9.jpg-25th Avenue, San Francisco, CA10.jpg"]
+	}
+	
+	
 ];
 let imgPath2 = require.context("../../public/images/remodels", true);
 
