@@ -49,17 +49,17 @@ const Credentials = props => {
 
 						<p className="cred-titles">Certificates from S.K. Ghosh Associates</p>
 						<ul>
-							<li>2018 IEBC</li>
-							<li>Structural Changes in the 2018 IBC</li>
-							<li>Changes in ASCE 7-16</li>
-							<li>Structural Irregularities in Seismic Design by ASCE 7-10, ASCE 7-16/2015 IBC, 2018 IBC</li>
-							<li>Design Load Combinations of the 2015 & 2018 IBC</li>
+							<li>2024 IEBC</li>
+							<li>Structural Changes in the 2024 IBC</li>
+							<li>Changes in ASCE/SEI 7-22</li>
+							<li>Structural Irregularities in Seismic Design by ASCE 7-10, ASCE 7-16/2015 IBC, 2018 IBC, ASCE/SEI 7-22/2024 IBC</li>
+							<li>Design Load Combinations of the 2024 IBC & ASCE/SEI 7-22</li>
 							<li>TMS 402-2016 Masonry Code</li>
 							<li>Ever-Changing Structural provisions of our Building Codes - Earthquake</li>
 							<li>Steel Moment Frames</li>
 							<li>Ever-Changing Structural provisions of our Building Codes - Wind</li>
-							<li>Wood Shear Wall Seismic & Wind Design per 2018 WFCM & 2015 SDPWS</li>
-							<li>Significant Wood Design & Construction Changes to the 2018 IBC & NDS</li>
+							<li>Wood Shear Wall Seismic & Wind Design per 2024 WFCM & 2021 SDPWS</li>
+							<li>Significant Wood Design & Construction Changes to the 2024 IBC & NDS</li>
 						</ul>
 						<br />
 
