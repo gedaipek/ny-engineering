@@ -38,7 +38,11 @@ let remodels = [
 	{
 		name: "Rosewood Drive, San Francisco, CA",
 		images: ["Rosewood Drive, San Francisco, CA1.jpg-Rosewood Drive, San Francisco, CA2.jpg-Rosewood Drive, San Francisco, CA3.jpg"]
-	}
+	},
+	{
+		name: "Iris Street, San Francisco, CA",
+		images: ["Iris Street, San Francisco, CA1.jpg-Rosewood Drive, San Francisco, CA2.jpg-Rosewood Drive, San Francisco, CA3.jpg"]
+	},
 ];
 let imgPath2 = require.context("../../public/images/remodels", true);
 
